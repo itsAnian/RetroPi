@@ -1,0 +1,6 @@
+## [**About RetroPi**](https://github.com/INF2023AI-Python/RetroPi/wiki)
+## [**Hardware**](https://github.com/INF2023AI-Python/RetroPi/wiki/Hardware)
+## [**Installation**](https://github.com/INF2023AI-Python/RetroPi/wiki/Installation)
+## [**How to play**](https://github.com/INF2023AI-Python/RetroPi/wiki/How-to-play)
+## [**Game Descriptions**](https://github.com/INF2023AI-Python/RetroPi/wiki/Game-Descriptions)
+## [**Other Features**](https://github.com/INF2023AI-Python/RetroPi/wiki/Other-Features)
